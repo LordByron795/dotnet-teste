@@ -1,7 +1,6 @@
 using ApplicantTracking.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-
 namespace ApplicantTracking.Infra.Data.Context
 {
     public class ApplicationContext(DbContextOptions<ApplicationContext> options) : DbContext(options)

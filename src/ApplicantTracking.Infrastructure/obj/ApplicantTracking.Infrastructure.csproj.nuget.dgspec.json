@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Infrastructure\\ApplicantTracking.Infrastructure.csproj": {}
+    "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Infrastructure\\ApplicantTracking.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Application\\ApplicantTracking.Application.csproj": {
+    "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Application\\ApplicantTracking.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Application\\ApplicantTracking.Application.csproj",
+        "projectUniqueName": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Application\\ApplicantTracking.Application.csproj",
         "projectName": "ApplicantTracking.Application",
-        "projectPath": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Application\\ApplicantTracking.Application.csproj",
-        "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Application\\obj\\",
+        "projectPath": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Application\\ApplicantTracking.Application.csproj",
+        "packagesPath": "C:\\Users\\cs374985\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\luana\\Downloads\\dotnet-teste\\NuGet.Config",
-          "C:\\Users\\luana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\NuGet.Config",
+          "C:\\Users\\cs374985\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj": {
-                "projectPath": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj"
+              "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj": {
+                "projectPath": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj"
               }
             }
           }
@@ -38,11 +42,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,22 +63,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj": {
+    "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj",
         "projectName": "ApplicantTracking.Domain",
-        "projectPath": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj",
-        "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\obj\\",
+        "projectPath": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj",
+        "packagesPath": "C:\\Users\\cs374985\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\luana\\Downloads\\dotnet-teste\\NuGet.Config",
-          "C:\\Users\\luana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\NuGet.Config",
+          "C:\\Users\\cs374985\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,11 +101,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -124,22 +122,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Infrastructure\\ApplicantTracking.Infrastructure.csproj": {
+    "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Infrastructure\\ApplicantTracking.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Infrastructure\\ApplicantTracking.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Infrastructure\\ApplicantTracking.Infrastructure.csproj",
         "projectName": "ApplicantTracking.Infrastructure",
-        "projectPath": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Infrastructure\\ApplicantTracking.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Infrastructure\\ApplicantTracking.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\cs374985\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\luana\\Downloads\\dotnet-teste\\NuGet.Config",
-          "C:\\Users\\luana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\NuGet.Config",
+          "C:\\Users\\cs374985\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -152,11 +154,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Application\\ApplicantTracking.Application.csproj": {
-                "projectPath": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Application\\ApplicantTracking.Application.csproj"
+              "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Application\\ApplicantTracking.Application.csproj": {
+                "projectPath": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Application\\ApplicantTracking.Application.csproj"
               },
-              "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj": {
-                "projectPath": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj"
+              "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj": {
+                "projectPath": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj"
               }
             }
           }
@@ -165,11 +167,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -191,7 +188,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
