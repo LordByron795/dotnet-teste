@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tVp8GkS0w+lP812D6bwVllUHEIrKwuKi/N/3oVGgtP7tdt5FaEXKriHsO04Vc5JgUq2ocpPHIWhQLLp6tmkK1A==",
+  "dgSpecHash": "gO4ar9cxRGCQCRPTnvtLGtWPy6Vq4I6DgMmWLdwmdsuoQhxt9kDGUCiewnk5CEsQsIVpem3ZxnM4vcipBq97wA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cs374985\\Downloads\\test-dotnet-pl\\src\\ApplicantTracking.Infrastructure\\ApplicantTracking.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Infrastructure\\ApplicantTracking.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

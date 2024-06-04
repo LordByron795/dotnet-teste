@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ApplicantTracking.Application
-build_property.ProjectDir = C:\Users\cs374985\Downloads\test-dotnet-pl\src\ApplicantTracking.Application\
+build_property.ProjectDir = C:\Users\luana\Downloads\dotnet-teste\src\ApplicantTracking.Application\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
