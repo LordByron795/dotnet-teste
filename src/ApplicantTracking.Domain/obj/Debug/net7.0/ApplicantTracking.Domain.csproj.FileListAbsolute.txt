@@ -1,0 +1,11 @@
+C:\Users\cs374985\Downloads\test-dotnet-pl\src\ApplicantTracking.Domain\bin\Debug\net7.0\ApplicantTracking.Domain.deps.json
+C:\Users\cs374985\Downloads\test-dotnet-pl\src\ApplicantTracking.Domain\bin\Debug\net7.0\ApplicantTracking.Domain.dll
+C:\Users\cs374985\Downloads\test-dotnet-pl\src\ApplicantTracking.Domain\bin\Debug\net7.0\ApplicantTracking.Domain.pdb
+C:\Users\cs374985\Downloads\test-dotnet-pl\src\ApplicantTracking.Domain\obj\Debug\net7.0\ApplicantTracking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs374985\Downloads\test-dotnet-pl\src\ApplicantTracking.Domain\obj\Debug\net7.0\ApplicantTracking.Domain.AssemblyInfoInputs.cache
+C:\Users\cs374985\Downloads\test-dotnet-pl\src\ApplicantTracking.Domain\obj\Debug\net7.0\ApplicantTracking.Domain.AssemblyInfo.cs
+C:\Users\cs374985\Downloads\test-dotnet-pl\src\ApplicantTracking.Domain\obj\Debug\net7.0\ApplicantTracking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cs374985\Downloads\test-dotnet-pl\src\ApplicantTracking.Domain\obj\Debug\net7.0\ApplicantTracking.Domain.dll
+C:\Users\cs374985\Downloads\test-dotnet-pl\src\ApplicantTracking.Domain\obj\Debug\net7.0\refint\ApplicantTracking.Domain.dll
+C:\Users\cs374985\Downloads\test-dotnet-pl\src\ApplicantTracking.Domain\obj\Debug\net7.0\ApplicantTracking.Domain.pdb
+C:\Users\cs374985\Downloads\test-dotnet-pl\src\ApplicantTracking.Domain\obj\Debug\net7.0\ref\ApplicantTracking.Domain.dll
