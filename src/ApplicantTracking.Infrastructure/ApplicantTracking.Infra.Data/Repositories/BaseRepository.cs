@@ -3,6 +3,10 @@ using System.Linq.Expressions;
 using ApplicantTracking.Domain.Entities;
 using ApplicantTracking.Domain.Interfaces;
 using ApplicantTracking.Infra.Data.Context;
+using System;
+using System.Threading.Tasks;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace ApplicantTracking.Infra.Data.Repositories
 {

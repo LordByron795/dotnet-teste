@@ -8,20 +8,25 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\luana\\.nuget\\packages\\": {}
+    "C:\\Users\\cs374985\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj",
       "projectName": "ApplicantTracking.Domain",
-      "projectPath": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj",
-      "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\obj\\",
+      "projectPath": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\ApplicantTracking.Domain.csproj",
+      "packagesPath": "C:\\Users\\cs374985\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\luana\\Downloads\\dotnet-teste\\NuGet.Config",
-        "C:\\Users\\luana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\NuGet.Config",
+        "C:\\Users\\cs374985\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,11 +45,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

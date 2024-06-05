@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sHSEHkfbuRyKsSdzSGSS/FGGKqNnxA+KvI7xuWlZ7UDCDlmknZ97er/nB1hdv1ICwBVWx7HAu8pcYBt2v8gRmA==",
+  "dgSpecHash": "1zLOs6mOYRCc1AUTbVpH5zfupHhN4L3ok/eiVTpRd1dGQOMuHe4xLv/fFX6v2HwVYz2misIYdKD6VCughiXjDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luana\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Application\\ApplicantTracking.Application.csproj",
+  "projectFilePath": "C:\\Users\\cs374985\\Downloads\\dotnet-teste\\src\\ApplicantTracking.Application\\ApplicantTracking.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
