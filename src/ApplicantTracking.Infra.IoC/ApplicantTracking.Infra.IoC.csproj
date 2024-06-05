@@ -13,7 +13,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ApplicantTracking.Application\ApplicantTracking.Application.csproj" />
-    <ProjectReference Include="..\ApplicantTracking.Infrastructure\ApplicantTracking.Infra.Data\ApplicantTracking.Infra.Data.csproj" />
   </ItemGroup>
 
 </Project>

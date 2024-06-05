@@ -20,3 +20,15 @@ C:\Users\cs374985\Downloads\dotnet-teste\src\ApplicantTracking.Domain\obj\Debug\
 C:\Users\cs374985\Downloads\dotnet-teste\src\ApplicantTracking.Domain\obj\Debug\net7.0\refint\ApplicantTracking.Domain.dll
 C:\Users\cs374985\Downloads\dotnet-teste\src\ApplicantTracking.Domain\obj\Debug\net7.0\ApplicantTracking.Domain.pdb
 C:\Users\cs374985\Downloads\dotnet-teste\src\ApplicantTracking.Domain\obj\Debug\net7.0\ref\ApplicantTracking.Domain.dll
+C:\Users\luana\Downloads\dotnet-teste\src\ApplicantTracking.Domain\bin\Debug\net7.0\ApplicantTracking.Domain.deps.json
+C:\Users\luana\Downloads\dotnet-teste\src\ApplicantTracking.Domain\bin\Debug\net7.0\ApplicantTracking.Domain.dll
+C:\Users\luana\Downloads\dotnet-teste\src\ApplicantTracking.Domain\bin\Debug\net7.0\ApplicantTracking.Domain.pdb
+C:\Users\luana\Downloads\dotnet-teste\src\ApplicantTracking.Domain\obj\Debug\net7.0\ApplicantTracking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\Downloads\dotnet-teste\src\ApplicantTracking.Domain\obj\Debug\net7.0\ApplicantTracking.Domain.AssemblyInfoInputs.cache
+C:\Users\luana\Downloads\dotnet-teste\src\ApplicantTracking.Domain\obj\Debug\net7.0\ApplicantTracking.Domain.AssemblyInfo.cs
+C:\Users\luana\Downloads\dotnet-teste\src\ApplicantTracking.Domain\obj\Debug\net7.0\ApplicantTracking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luana\Downloads\dotnet-teste\src\ApplicantTracking.Domain\obj\Debug\net7.0\ApplicantTracking.Domain.sourcelink.json
+C:\Users\luana\Downloads\dotnet-teste\src\ApplicantTracking.Domain\obj\Debug\net7.0\ApplicantTracking.Domain.dll
+C:\Users\luana\Downloads\dotnet-teste\src\ApplicantTracking.Domain\obj\Debug\net7.0\refint\ApplicantTracking.Domain.dll
+C:\Users\luana\Downloads\dotnet-teste\src\ApplicantTracking.Domain\obj\Debug\net7.0\ApplicantTracking.Domain.pdb
+C:\Users\luana\Downloads\dotnet-teste\src\ApplicantTracking.Domain\obj\Debug\net7.0\ref\ApplicantTracking.Domain.dll
