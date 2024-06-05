@@ -20,4 +20,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ApplicantTracking.Domain\ApplicantTracking.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

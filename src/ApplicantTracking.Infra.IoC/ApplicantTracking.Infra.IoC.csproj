@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ApplicantTracking.Application\ApplicantTracking.Application.csproj" />
+    <ProjectReference Include="..\ApplicantTracking.Infrastructure\ApplicantTracking.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
